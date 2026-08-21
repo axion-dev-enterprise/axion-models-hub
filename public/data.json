@@ -134,8 +134,9 @@
       "categories": {},
       "feed_count": 0,
       "stories_count": 0,
-      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=120",
-      "is_private": false
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200",
+      "is_private": false,
+      "is_restricted": true
     },
     {
       "username": "greice_saturno",
