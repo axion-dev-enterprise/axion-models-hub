@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T08:20:00-03:00",
+  "generated_at": "2026-08-21T08:38:00-03:00",
   "models": [
     {
       "username": "_z_mizu",
@@ -42,7 +42,8 @@
       },
       "feed_count": 16,
       "stories_count": 4,
-      "avatar": "models/_z_mizu/academia_fitness/story_destaque_gym.jpg"
+      "avatar": "models/_z_mizu/academia_fitness/story_destaque_gym.jpg",
+      "is_private": false
     },
     {
       "username": "bellamarfe",
@@ -121,7 +122,8 @@
       },
       "feed_count": 17,
       "stories_count": 4,
-      "avatar": "models/bellamarfe/academia_fitness/story_destaque_highlight.jpg"
+      "avatar": "models/bellamarfe/academia_fitness/story_destaque_highlight.jpg",
+      "is_private": false
     },
     {
       "username": "chelseagabriellee",
@@ -132,7 +134,8 @@
       "categories": {},
       "feed_count": 0,
       "stories_count": 0,
-      "avatar": ""
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=120",
+      "is_private": false
     },
     {
       "username": "greice_saturno",
@@ -163,7 +166,8 @@
       },
       "feed_count": 14,
       "stories_count": 1,
-      "avatar": "models/greice_saturno/academia_fitness/story_destaque_highlight.jpg"
+      "avatar": "models/greice_saturno/academia_fitness/story_destaque_highlight.jpg",
+      "is_private": false
     },
     {
       "username": "khalllyta",
@@ -219,7 +223,8 @@
       },
       "feed_count": 14,
       "stories_count": 2,
-      "avatar": "models/khalllyta/lifestyle_casual/Db1cYuIkZ8A.jpg"
+      "avatar": "models/khalllyta/lifestyle_casual/Db1cYuIkZ8A.jpg",
+      "is_private": false
     },
     {
       "username": "lee_nyuc",
@@ -271,7 +276,8 @@
       },
       "feed_count": 17,
       "stories_count": 5,
-      "avatar": "models/lee_nyuc/ensaio_editorial/story_destaque_cosplays.jpg"
+      "avatar": "models/lee_nyuc/ensaio_editorial/story_destaque_cosplays.jpg",
+      "is_private": false
     },
     {
       "username": "manonelisabethroberts",
@@ -279,12 +285,11 @@
       "has_live_story": true,
       "highlights_count": 0,
       "highlights": [],
-      "categories": {
-        "profile": 1
-      },
-      "feed_count": 1,
+      "categories": {},
+      "feed_count": 0,
       "stories_count": 0,
-      "avatar": "models/manonelisabethroberts/profile/avatar.jpg"
+      "avatar": "models/manonelisabethroberts/profile/avatar.jpg",
+      "is_private": true
     },
     {
       "username": "peachmangojuice",
@@ -436,7 +441,8 @@
       },
       "feed_count": 105,
       "stories_count": 16,
-      "avatar": "models/peachmangojuice/balada_eventos/Dbok5-HPPMU.jpg"
+      "avatar": "models/peachmangojuice/balada_eventos/Dbok5-HPPMU.jpg",
+      "is_private": false
     },
     {
       "username": "quarterjade",
@@ -541,7 +547,8 @@
       },
       "feed_count": 24,
       "stories_count": 12,
-      "avatar": "models/quarterjade/lifestyle_casual/C8fKyVPPK9n.jpg"
+      "avatar": "models/quarterjade/lifestyle_casual/C8fKyVPPK9n.jpg",
+      "is_private": false
     },
     {
       "username": "vivianebrochado",
@@ -556,7 +563,8 @@
       },
       "feed_count": 112,
       "stories_count": 0,
-      "avatar": "models/vivianebrochado/ensaio_editorial/DaJPjE7D289_1.jpg"
+      "avatar": "models/vivianebrochado/ensaio_editorial/DaJPjE7D289_1.jpg",
+      "is_private": false
     }
   ],
   "items": [
@@ -1593,17 +1601,6 @@
       "image_url": "models/lee_nyuc/stories/destaque_momentos/cover_momentos.jpg",
       "post_url": "https://www.instagram.com/lee_nyuc/",
       "file_name": "cover_momentos.jpg"
-    },
-    {
-      "id": "feed_manonelisabethroberts_avatar",
-      "model": "manonelisabethroberts",
-      "category": "profile",
-      "type": "feed",
-      "title": "Publicação - @manonelisabethroberts",
-      "caption": "Foto de @manonelisabethroberts categorizada em Profile",
-      "image_url": "models/manonelisabethroberts/profile/avatar.jpg",
-      "post_url": "https://www.instagram.com/p/avatar/",
-      "file_name": "avatar.jpg"
     },
     {
       "id": "feed_peachmangojuice_Dbok5-HPPMU",
