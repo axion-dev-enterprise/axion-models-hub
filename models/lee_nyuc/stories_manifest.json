@@ -1,0 +1,43 @@
+{
+  "username": "lee_nyuc",
+  "url": "https://www.instagram.com/lee_nyuc",
+  "has_live_story_24h": true,
+  "highlights_count": 5,
+  "highlights": [
+    {
+      "title": "Cosplay's🎭",
+      "slug": "cosplays",
+      "category": "ensaio_editorial",
+      "cover_file": "lee_nyuc/stories/destaque_cosplays/cover_cosplays.jpg",
+      "cover_url": "https://scontent.cdninstagram.com/v/t51.2885-15/328589201_929016921619605_2180846707466774363_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=acbce5&_nc_ohc=aZFvUA7oAWoQ7kNvwHCEdOh&_nc_oc=Adrg_f_BPwsc3Vf9NX3CAWbj1zoMN8P1QUSie0NWxFlMEnQaQ7VBhhFJdD-ZAk0ks-Y&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_ss=7b60f&oh=00_AQEfje13pldwXZF42Ao6CRGmrhje2B0auF3GM9rm-oqrlQ&oe=6A8DF9D7"
+    },
+    {
+      "title": "Desapego Cos",
+      "slug": "desapego_cos",
+      "category": "lifestyle_casual",
+      "cover_file": "lee_nyuc/stories/destaque_desapego_cos/cover_desapego_cos.jpg",
+      "cover_url": "https://scontent.cdninstagram.com/v/t51.71878-15/524842054_1070474075290665_1698059110160968669_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=111&ccb=7-5&_nc_sid=acbce5&_nc_ohc=vYfylN6IKXIQ7kNvwHtmfoT&_nc_oc=Adqu4UyGpYon3T5cFIwh0CJuX4rbWQtB3FgbwGeQJby8WNRZ_TtSdherx4RoKKejLAQ&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_gid=KjVcNw7MDX1cIuwchEaKDQ&_nc_ss=7b60f&oh=00_AQFP1pH1OcZ4-2LHz6uXqswkBa3nU86WNuQFglAemIVa4Q&oe=6A8DFAC6"
+    },
+    {
+      "title": "Momentos 🎬",
+      "slug": "momentos",
+      "category": "ensaio_editorial",
+      "cover_file": "lee_nyuc/stories/destaque_momentos/cover_momentos.jpg",
+      "cover_url": "https://scontent.cdninstagram.com/v/t51.2885-15/328612855_139655782296181_6581570889621496282_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=acbce5&_nc_ohc=VyqJ6A3PtPsQ7kNvwEVibmd&_nc_oc=AdonEGVfVWRLfu3FCASehPYBl88xy_xlHq4AWq1UeUWHiEPt2EUKHbq7e-zgoqb3_UU&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_ss=7b60f&oh=00_AQHW6p1IJE4-lg2-lhKnGVN5hCgli0Vs9U4h4GFS_eiwSQ&oe=6A8E1436"
+    },
+    {
+      "title": "Food🍟",
+      "slug": "food",
+      "category": "lifestyle_casual",
+      "cover_file": "lee_nyuc/stories/destaque_food/cover_food.jpg",
+      "cover_url": "https://scontent.cdninstagram.com/v/t51.2885-15/328703913_655705386330926_5538146761274114504_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ccb=7-5&_nc_sid=acbce5&_nc_ohc=JLfprDKMxp8Q7kNvwGGwjIJ&_nc_oc=AdpD1bbzN7gE-urYbRzB3pYjGGW9GuY0lLfkLlhsCgecTv1iqvqG-sLvOgu47PCa3oI&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_ss=7b60f&oh=00_AQH7ungE-pTYWabfK-SiJpyzWq-GstVxBx5o3MJTSWTPOQ&oe=6A8DEB19"
+    },
+    {
+      "title": "Leitura 📖",
+      "slug": "leitura",
+      "category": "lifestyle_casual",
+      "cover_file": "lee_nyuc/stories/destaque_leitura/cover_leitura.jpg",
+      "cover_url": "https://scontent.cdninstagram.com/v/t51.2885-15/328560757_219841530410582_7297454394517447032_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=acbce5&_nc_ohc=Usw3yOtwiggQ7kNvwFI4xnf&_nc_oc=Adqrj8uu5FKG6TsxbkTdhvOsKAE-17GzdTpTk2n4S9krt7fKC2ImI_iMm_CcU3drq4Y&_nc_zt=23&_nc_ht=scontent.cdninstagram.com&_nc_ss=7b60f&oh=00_AQFPM38HclE-aZjZi4dcHuHhjn-Hlr_osApejcoTxDA7zg&oe=6A8DFD72"
+    }
+  ]
+}
